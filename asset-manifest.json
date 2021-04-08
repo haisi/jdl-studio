@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jdl-studio/static/css/main.fe4b530b.chunk.css",
-    "main.js": "/jdl-studio/static/js/main.61cbe25f.chunk.js",
-    "main.js.map": "/jdl-studio/static/js/main.61cbe25f.chunk.js.map",
+    "main.js": "/jdl-studio/static/js/main.0730fcec.chunk.js",
+    "main.js.map": "/jdl-studio/static/js/main.0730fcec.chunk.js.map",
     "runtime-main.js": "/jdl-studio/static/js/runtime-main.7ad85f61.js",
     "runtime-main.js.map": "/jdl-studio/static/js/runtime-main.7ad85f61.js.map",
     "static/css/2.dd21d29c.chunk.css": "/jdl-studio/static/css/2.dd21d29c.chunk.css",
     "static/js/2.9fe34c6c.chunk.js": "/jdl-studio/static/js/2.9fe34c6c.chunk.js",
     "static/js/2.9fe34c6c.chunk.js.map": "/jdl-studio/static/js/2.9fe34c6c.chunk.js.map",
     "index.html": "/jdl-studio/index.html",
-    "precache-manifest.36f1a47938c5ac9f4a041dbafc38ff8e.js": "/jdl-studio/precache-manifest.36f1a47938c5ac9f4a041dbafc38ff8e.js",
+    "precache-manifest.78ff9703e74650cc7b2c4e1d6e17f60d.js": "/jdl-studio/precache-manifest.78ff9703e74650cc7b2c4e1d6e17f60d.js",
     "service-worker.js": "/jdl-studio/service-worker.js",
     "static/css/2.dd21d29c.chunk.css.map": "/jdl-studio/static/css/2.dd21d29c.chunk.css.map",
     "static/css/main.fe4b530b.chunk.css.map": "/jdl-studio/static/css/main.fe4b530b.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.dd21d29c.chunk.css",
     "static/js/2.9fe34c6c.chunk.js",
     "static/css/main.fe4b530b.chunk.css",
-    "static/js/main.61cbe25f.chunk.js"
+    "static/js/main.0730fcec.chunk.js"
   ]
 }
