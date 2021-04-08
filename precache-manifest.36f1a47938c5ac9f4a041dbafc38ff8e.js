@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceaf17cc91c5f0852035389f7d7aa01b",
+    "revision": "8fd58f278ffc954ac94a133f41b8320f",
     "url": "/jdl-studio/index.html"
   },
   {
-    "revision": "427520e75258c7a9fd95",
+    "revision": "df1be36b136aa97bda45",
     "url": "/jdl-studio/static/css/2.dd21d29c.chunk.css"
   },
   {
-    "revision": "40f43c869aadb7ad4448",
+    "revision": "5db373d2e8c3ce5ff357",
     "url": "/jdl-studio/static/css/main.fe4b530b.chunk.css"
   },
   {
-    "revision": "427520e75258c7a9fd95",
-    "url": "/jdl-studio/static/js/2.eaf3b90b.chunk.js"
+    "revision": "df1be36b136aa97bda45",
+    "url": "/jdl-studio/static/js/2.9fe34c6c.chunk.js"
   },
   {
     "revision": "64bea2e190f27355a76963b8cb94bb7b",
-    "url": "/jdl-studio/static/js/2.eaf3b90b.chunk.js.LICENSE.txt"
+    "url": "/jdl-studio/static/js/2.9fe34c6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40f43c869aadb7ad4448",
-    "url": "/jdl-studio/static/js/main.f6dbfda9.chunk.js"
+    "revision": "5db373d2e8c3ce5ff357",
+    "url": "/jdl-studio/static/js/main.61cbe25f.chunk.js"
   },
   {
     "revision": "e9765bdcd07a45ec0d83",
